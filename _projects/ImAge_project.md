@@ -28,6 +28,7 @@ ImAge is a computational tool designed to quantitate aging and rejuvenation thro
 The ImAge project introduces a novel approach to quantifying aging and rejuvenation through advanced image analysis techniques. Our method leverages state-of-the-art machine learning algorithms to extract meaningful features from cellular images, providing a robust measure of biological age.
 
 The workflow consists of four main steps:
+
 1. Illumination correction
 2. Nuclei segmentation
 3. Image feature extraction
