@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: 
+description: I am a PhD student in the Center for Computational Biology (CCB) at the University of California, Berkeley. My research interests include epigenomics, image analysis, Bayesian inference / variational inference, deep learning / machine learning.
 toc:
   sidebar: left
 ---

@@ -2,13 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Martín # the website title (if blank, full name will be used instead)
+title: Martín Alvarez-Kuglen # the website title (if blank, full name will be used instead)
 first_name: Martín
 middle_name: G.
 last_name: Alvarez-Kuglen
 email: martinalvarezkuglen@berkeley.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I develop novel deep learning approaches to understand and extract information embedded within living systems, with a particular focus on integrating multi-modal biological data like microscopic images, spatial genomics, and epigenetic sequencing. By combining computational methods with insights from the physical sciences, I aim to decode how cells organize and process information across multiple scales - from individual molecules to entire genomes and cellular networks. My research lies at the intersection of deep learning, artificial intelligence, and computational biology, driven by the vision that understanding the spatial organization of biological information alongside sequence-level data will be key to quantifying cellular aging, pathology, and disease.
+  Building mathematical models of the physical world to answer meaningful questions about our existence. 
+  Deep Learning | Computational Biology | Decentralization
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -134,7 +135,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Martín Alvarez-Kuglen # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_description: Some Ideas I've Had
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -162,19 +163,19 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: martín # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+  # - name: medium.com
+  #   rss_url: https://medium.com/@al-folio/feed
+  # - name: Google Blog
+  #   posts:
+  #     - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+  #       published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -313,8 +314,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Alvarez-Kuglen]
+  first_name: [Martín, G.]
 
   style: apa
   locale: en
