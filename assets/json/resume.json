@@ -42,10 +42,7 @@
       "startDate": "2017",
       "endDate": "2021",
       "score": "3.946",
-      "courses": [
-        "Major: Biochemistry, Biophysics & Molecular Biology",
-        "Minor: Mathematics"
-      ]
+      "courses": ["Major: Biochemistry, Biophysics & Molecular Biology", "Minor: Mathematics"]
     }
   ],
   "publications": [
