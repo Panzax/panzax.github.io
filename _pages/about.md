@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle:. Natural scientist, Bayesian animist, ambitious optimist, closeted artist
+subtitle: Natural scientist, Bayesian animist, ambitious optimist, closeted artist
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Affiliations: <p>
-    <p> <a href='https://www.allonwagnerlab.org'>Allon Wagner's Lab, UC Berkeley Computational Biology</a></p>
+    <p>Affiliations:</p>
+    <p><a href='https://www.allonwagnerlab.org'>Allon Wagner's Lab, UC Berkeley Computational Biology</a></p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
