@@ -31,7 +31,6 @@ The workflow consists of four main steps:
 3. Image feature extraction
 4. ImAge axis construction
 
-
 The ImAge project is available on GitHub. We believe that this tool will contribute significantly to our understanding of aging processes and aid in the development of interventions to promote healthy aging.
 
 For more details on the methodology and applications of ImAge, please refer to our publication:
