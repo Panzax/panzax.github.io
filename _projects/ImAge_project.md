@@ -12,10 +12,10 @@ ImAge is a computational tool designed to quantitate aging and rejuvenation thro
 
 <div class="row">
     <div class="col-12 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/image_workflow.jpg" title="ImAge Workflow" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/image_workflow.png" title="ImAge Workflow" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-12 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/image_results.jpg" title="ImAge Results" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/image_results.png" title="ImAge Results" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
