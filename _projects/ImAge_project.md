@@ -27,8 +27,6 @@ The workflow consists of four main steps:
 
 The ImAge project is available on GitHub. We believe that this tool will contribute significantly to our understanding of aging processes and aid in the development of interventions to promote healthy aging.
 
-For more details on the methodology and applications of ImAge, please refer to our publication:
-
-Alvarez-Kuglen, M., Ninomiya, K., Qin, H. et al. ImAge quantitates aging and rejuvenation. Nat Aging 4, 1308–1327 (2024). [https://doi.org/10.1038/s43587-024-00685-1](https://doi.org/10.1038/s43587-024-00685-1)
+For more details on the methodology and applications of ImAge, please refer to our publication{% cite alvarez-kuglenImAgeQuantitatesAging2024 %}.
 
 We invite researchers and developers to explore, use, and contribute to the ImAge project, furthering our collective understanding of aging and rejuvenation.

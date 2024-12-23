@@ -4,27 +4,30 @@
     - name: Full Name
       value: Martin Alvarez-Kuglen
     - name: Location
-      value: La Jolla, CA
+      value: Berkeley, CA
     - name: Skills
       value: Python, R, Bash, Benchling, FlowJo, ImageJ, Microsoft Office, SolidWorks 2016
 
 - title: Education
   type: time_table
   contents:
+
+    - title: Computational Biology, PhD Student
+      institution: University of California Berkeley, Berekeley, CA
+      year: 2024 - Present
+      description:
+        - Program: Center for Computational Biology (CCB)
+        - Project: Capturing Biological State Spaces and State Operators with Multi-Modal Deep Representation Learning and Variational Inference.
+        - Expected graduation: June 2028
+
     - title: Bachelor of Arts
       institution: Whitman College, Walla Walla, WA
-      year: 2021
+      year: 2017 - 2021
       description:
         - Major: Biochemistry, Biophysics & Molecular Biology
         - Minor: Mathematics
         - GPA: 3.946
         - Honors: Summa Cum Laude, Honors in Major Study
-
-    - title: PhD Candidate
-      institution: University of California Berkeley, Berekeley, CA
-      year: 2024 - Present
-      description:
-        - Expected graduation: June 2028
 
 - title: Experience
   type: time_table
@@ -84,11 +87,17 @@
     - title: Computational Biology
       items:
         - Image analysis
-        - Python package development
-    - title: Synthetic Biology
+        - Spatial transcriptomics
+        - Epigenomics
+        - Deep learning
+        - Variational inference
+        - Open source software development
+    - title: Autonomous Financial Analytics
       items:
-        - Flow Cytometry
-        - DNA plasmid & primer design
+        - Deep learning trading strategies
+        - Short-term price prediction
+        - Dynamic risk management
+        - Portfolio optimization
 
 - title: Other Interests
   type: list
