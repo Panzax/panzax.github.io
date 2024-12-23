@@ -16,25 +16,32 @@
       institution: University of California Berkeley, Berekeley, CA
       year: 2024 - Present
       description:
-        - Program: Center for Computational Biology (CCB)
-        - Project: Capturing Biological State Spaces and State Operators with Multi-Modal Deep Representation Learning and Variational Inference.
-        - Expected graduation: June 2028
+        - name: Program
+          value: Center for Computational Biology (CCB)
+        - name: Project
+          value: Capturing Biological State Spaces and State Operators with Multi-Modal Deep Representation Learning and Variational Inference.
+        - name: Expected graduation
+          value: June 2028
 
     - title: Bachelor of Arts
       institution: Whitman College, Walla Walla, WA
       year: 2017 - 2021
       description:
-        - Major: Biochemistry, Biophysics & Molecular Biology
-        - Minor: Mathematics
-        - GPA: 3.946
-        - Honors: Summa Cum Laude, Honors in Major Study
+        - name: Major
+          value: Biochemistry, Biophysics & Molecular Biology
+        - name: Minor
+          value: Mathematics
+        - name: GPA
+          value: 3.946
+        - name: Honors
+          value: Summa Cum Laude, Honors in Major Study
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Associate
       institution: SBP Medical Discovery Institute, La Jolla, CA
-      year: July 2021 - April 2024
+      year: 2021 - 2024
       description:
         - Full time computational research associate
         - Designed EpiLands; an image analysis python package
@@ -43,7 +50,7 @@
 
     - title: Undergraduate Researcher
       institution: Whitman College, Walla Walla, WA
-      year: June-August 2019, June-August 2020
+      year: 2019, 2020
       description:
         - Perry Student/Faculty Summer Research Award recipient
         - Applied fundamental Synthetic Biology techniques
@@ -70,7 +77,7 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2017-2021
+    - year: 2017 - 2021
       items:
         - Honors in Major Study
         - Summa Cum Laude
