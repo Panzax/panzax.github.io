@@ -58,7 +58,9 @@
               {% for item in content.bpdescription %}
                 <li>
                   {% for key_value in item %}
-                    <span class="item"><strong>{{ key_value[0] }}:</strong> {{ key_value[1] }}</span>
+                    <span class="item"
+                      ><strong>{{ key_value[0] }}:</strong> {{ key_value[1] -}}
+                    </span>
                   {% endfor %}
                 </li>
               {% endfor %}
