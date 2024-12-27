@@ -16,25 +16,18 @@
       institution: University of California Berkeley, Berekeley, CA
       year: 2024 - Present
       description:
-        - name: Program
-          value: Center for Computational Biology (CCB)
-        - name: Project
-          value: Capturing Biological State Spaces and State Operators with Multi-Modal Deep Representation Learning and Variational Inference.
-        - name: Expected graduation
-          value: June 2028
+        - Program: Center for Computational Biology (CCB)
+        - Project: Capturing Biological State Spaces and State Operators with Multi-Modal Deep Representation Learning and Variational Inference
+        - Expected graduation: June 2028
 
     - title: Bachelor of Arts
       institution: Whitman College, Walla Walla, WA
       year: 2017 - 2021
       description:
-        - name: Major
-          value: Biochemistry, Biophysics & Molecular Biology
-        - name: Minor
-          value: Mathematics
-        - name: GPA
-          value: 3.946
-        - name: Honors
-          value: Summa Cum Laude, Honors in Major Study
+        - Major: Biochemistry, Biophysics & Molecular Biology
+        - Minor: Mathematics
+        - GPA: 3.946
+        - Honors: Summa Cum Laude, Honors in Major Study
 
 - title: Experience
   type: time_table
