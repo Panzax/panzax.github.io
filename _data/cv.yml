@@ -65,7 +65,6 @@
       year: 2024
       description:
         - Published in Nature Aging
-        - DOI: https://doi.org/10.1038/s43587-024-00685-1
 
 - title: Honors and Awards
   type: time_table
@@ -98,8 +97,3 @@
         - Short-term price prediction
         - Dynamic risk management
         - Portfolio optimization
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Community Involvement:</u> Seniors Making Meals, Teaching Assistant at Green Park Elementary School
