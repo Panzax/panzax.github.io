@@ -6,16 +6,16 @@
     - name: Location
       value: Berkeley, CA
     - name: Skills
-      value: Python, R, Bash, Benchling, FlowJo, ImageJ, Microsoft Office, SolidWorks 2016
+      value: Python, R, Bash, Benchling, FlowJo, ImageJ
 
 - title: Education
   type: time_table
   contents:
 
     - title: Computational Biology, PhD Student
-      institution: University of California Berkeley, Berekeley, CA
+      institution: University of California, Berkeley, CA
       year: 2024 - Present
-      description:
+      bpdescription:
         - Program: Center for Computational Biology (CCB)
         - Project: Capturing Biological State Spaces and State Operators with Multi-Modal Deep Representation Learning and Variational Inference
         - Expected graduation: June 2028
@@ -23,7 +23,7 @@
     - title: Bachelor of Arts
       institution: Whitman College, Walla Walla, WA
       year: 2017 - 2021
-      description:
+      bpdescription:
         - Major: Biochemistry, Biophysics & Molecular Biology
         - Minor: Mathematics
         - GPA: 3.946

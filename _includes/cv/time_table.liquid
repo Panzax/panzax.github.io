@@ -53,6 +53,17 @@
               </tbody>
             </table>
           {% endif %}
+          {% if content.bpdescription %}
+            <ul class="items">
+              {% for item in content.bpdescription %}
+                <li>
+                  {% for key_value in item %}
+                    <span class="item"><strong>{{ key_value[0] }}:</strong> {{ key_value[1] }}</span>
+                  {% endfor %}
+                </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
           {% if content.maindescription %}
             <div class="ml-1 ml-md-4">{{ content.maindescription }}</div>
           {% endif %}
