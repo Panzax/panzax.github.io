@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Natural scientist, Bayesian animist, ambitious optimist, closeted artist
+subtitle: Natural scientist, Bayesian animist, ambitious optimist. Building mathematical models of the physical world to answer meaningful questions about our existence. Deep Learning | Biology | Mathematics
 
 profile:
   align: right
