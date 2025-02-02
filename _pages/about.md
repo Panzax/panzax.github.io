@@ -6,7 +6,7 @@ subtitle: Natural scientist, Bayesian animist, ambitious optimist. Building math
 
 profile:
   align: right
-  image: prof_pic.png
+  image: /assets/img/prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Affiliations:</p>
