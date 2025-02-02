@@ -1,0 +1,143 @@
+{
+  "basics": {
+    "name": "Martin Alvarez-Kuglen",
+    "label": "Natural scientist, Bayesian animist, ambitious optimist",
+    "summary": "Building mathematical models of the physical world to answer meaningful questions about our existence. Deep Learning | Biology | Mathematics",
+    "location": {
+      "city": "Berkeley",
+      "region": "CA"
+    }
+  },
+  "education": [
+    {
+      "institution": "University of California, Berkeley, CA",
+      "area": "Computational Biology",
+      "studyType": "PhD Student",
+      "startDate": "2024",
+      "endDate": "Present",
+      "description": "Program: Center for Computational Biology (CCB)\nProject: Capturing Biological State Spaces and State Operators with Multi-Modal Deep Representation Learning and Variational Inference\nExpected graduation: June 2028"
+    },
+    {
+      "institution": "Whitman College, Walla Walla, WA",
+      "area": "Biochemistry, Biophysics & Molecular Biology",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2017",
+      "endDate": "2021",
+      "score": "3.946",
+      "description": "Minor: Mathematics\nHonors: Summa Cum Laude, Honors in Major Study"
+    }
+  ],
+  "work": [
+    {
+      "name": "SBP Medical Discovery Institute",
+      "position": "Research Associate",
+      "location": "La Jolla, CA",
+      "startDate": "2021",
+      "endDate": "2024",
+      "highlights": [
+        "Full time computational research associate",
+        "Designed EpiLands; an image analysis python package",
+        "Worked collaboratively with wet-lab biologists, computational scientists, and computational biologists",
+        "Presented at the American Aging Association Conference (AGE 2022)"
+      ]
+    },
+    {
+      "name": "Whitman College",
+      "position": "Undergraduate Researcher",
+      "location": "Walla Walla, WA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "highlights": [
+        "Perry Student/Faculty Summer Research Award recipient",
+        "Applied fundamental Synthetic Biology techniques",
+        "Worked individually and collaboratively with other undergraduates"
+      ]
+    },
+    {
+      "name": "Beta Theta Pi, Gamma Zeta Chapter",
+      "position": "President",
+      "location": "Whitman College, Walla Walla, WA",
+      "startDate": "2018",
+      "endDate": "2019",
+      "highlights": [
+        "Led weekly meetings and organized executive team",
+        "Secured $250K investment from Alumni Corporation",
+        "Doubled membership",
+        "Hosted fundraiser for Blue Mountain Humane Society"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "ImAge quantitates aging and rejuvenation",
+      "publisher": "Nature Aging",
+      "releaseDate": "2024"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Honors in Major Study",
+      "date": "2021"
+    },
+    {
+      "title": "Summa Cum Laude",
+      "date": "2021"
+    },
+    {
+      "title": "Perry Student/Faculty Summer Research Award",
+      "date": "2019-2020"
+    },
+    {
+      "title": "Recognition of Academic Distinction",
+      "description": "8 consecutive semesters"
+    },
+    {
+      "title": "Order of Omega member",
+      "date": "2020"
+    },
+    {
+      "title": "Top General Chemistry II Student",
+      "date": "2018"
+    },
+    {
+      "title": "Beckman Scholars Finalist",
+      "date": "2019"
+    },
+    {
+      "title": "Barry Goldwater Scholarship Nominee",
+      "date": "2020"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Python", "R", "Bash"]
+    },
+    {
+      "name": "Scientific Software",
+      "keywords": ["Benchling", "FlowJo", "ImageJ"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Computational Biology",
+      "keywords": [
+        "Image analysis",
+        "Spatial transcriptomics",
+        "Epigenomics",
+        "Deep learning",
+        "Variational inference",
+        "Open source software development"
+      ]
+    },
+    {
+      "name": "Autonomous Financial Analytics",
+      "keywords": [
+        "Deep learning trading strategies",
+        "Short-term price prediction",
+        "Dynamic risk management",
+        "Portfolio optimization"
+      ]
+    }
+  ]
+} 
