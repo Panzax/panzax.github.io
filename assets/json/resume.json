@@ -132,12 +132,7 @@
     },
     {
       "name": "Autonomous Financial Analytics",
-      "keywords": [
-        "Deep learning trading strategies",
-        "Short-term price prediction",
-        "Dynamic risk management",
-        "Portfolio optimization"
-      ]
+      "keywords": ["Deep learning trading strategies", "Short-term price prediction", "Dynamic risk management", "Portfolio optimization"]
     }
   ]
-} 
+}
