@@ -81,6 +81,21 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y imagemagick
+
+      - name: Generate WebP Images 🖼️
+        run: |
+          # Create WebP versions of images
+          cd assets/img
+          for img in *.{png,jpg,jpeg}; do
+            if [ -f "$img" ]; then
+              convert "$img" -quality 85 "${img%.*}.webp"
+              convert "$img" -resize 800x -quality 85 "${img%.*}-800.webp"
+              convert "$img" -resize 1400x -quality 85 "${img%.*}-1400.webp"
+              convert "$img" -resize 2000x -quality 85 "${img%.*}-2000.webp"
+            fi
+          done
+          cd ../..
+
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
