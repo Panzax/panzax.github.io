@@ -10,7 +10,10 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Affiliations:</p>
-    <p><a href='https://www.allonwagnerlab.org'>Allon Wagner's Lab, UC Berkeley Computational Biology</a></p>
+    <p><a href='https://abc.berkeley.edu'>Advanced Bioimaging Center (ABC), UC Berkeley</a></p>
+    <p><a href='https://ccb.berkeley.edu'>Center for Computational Biology (CCB), UC Berkeley</a></p>
+    <p><a href='https://physics.berkeley.edu/people/faculty/eric-betzig'>Eric Betzig Lab, UC Berkeley Physics</a></p>
+    <p><a href='https://mcb.berkeley.edu/faculty/cdb/upadhyayulas'>Gokul Upadhyayula Lab, UC Berkeley Molecular and Cell Biology</a></p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
