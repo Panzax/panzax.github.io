@@ -16,8 +16,14 @@
       year: 2024 - Present
       bpdescription:
         - Program: Center for Computational Biology (CCB)
-        - Project: Capturing Biological State Spaces and State Operators with Multi-Modal Deep Representation Learning and Variational Inference
+        - Project: Capturing Biological Dynamics with Deep Self-Supervised Representation Learning
         - Expected graduation: June 2028
+        - Relevant coursework:
+            - COMPSCI 282A: Designing, Visualizing and Understanding Deep Neural Networks (4.0 units, B+), Fall 2025
+            - MCELLBI C205: Modern Optical Microscopy for the Modern Biologist (3.0 units, A+), Fall 2025
+            - STAT 238: Bayesian Statistics (3.0 units, A+), Fall 2025
+            - STAT 254: Modern Statistical Prediction and Machine Learning (4.0 units, A), Fall 2025
+            - STAT 201A: Introduction to Probability at an Advanced Level, Fall 2025
 
     - title: Bachelor of Arts
       institution: Whitman College, Walla Walla, WA
